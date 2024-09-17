@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and cloud technologies.
 - 🌱 I’m currently learning Azure and Terraform.
 - 💞️ I’m looking to collaborate on anything realted to the cloud technology
-- 📫 you can rwach me via email pankaj.mujoo@gmail.com
+- 📫 you can reach me via email pankaj.mujoo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
